@@ -44,33 +44,33 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 /*============== SOCIAL ==============*/
 
 // Wajib diisi ya kak!, kalo ga punya biarin aja, biar ada creditsnya :v
-global.sig = 'https://www.instagram.com/_lucxfvr'
-global.sgh = 'https://github.com/VarrelKun'
-global.sgc = 'https://chat.whatsapp.com/DRnWIXKf0VLH4KArdpH4IX'
+global.sig = 'https://www.instagram.com/ketutagus404'
+global.sgh = 'https://github.com/VamsesOfficial'
+global.sgc = 'https://chat.whatsapp.com/BCwzxnLQZl6FwyXumQ1wVe'
 global.sdc = " "
-global.snh = 'https://PentaPage.my.id'
+global.snh = '-'
 
 /*============== PAYMENT ==============*/
-global.pdana = '085954184111'
+global.pdana = '085738639969'
 global.povo = '_'
 global.pgopay = '_'
-global.ppulsa = '085954184111'
-global.ppulsa2 = '085954184111'
+global.ppulsa = '085738639969'
+global.ppulsa2 = '-'
 global.psaweria = '_'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '17754764633'
-global.nomorown = '6282321015688'
-global.namebot = 'xynaa'
-global.nameown = 'Xennz'
+global.nomorbot = '918093484205'
+global.nomorown = '6289508503105'
+global.namebot = 'Chonix'
+global.nameown = 'Vamses'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['17754764633'],
-  ['6285954184111'],
-  ['18126338970'],
-  ['6282321015688', 'Xynaa', true]
+  ['6289508503105'],
+  ['6285738639969'],
+  ['19152666222'],
+  ['14158555555', 'Vamses', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?

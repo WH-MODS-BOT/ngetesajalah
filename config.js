@@ -114,12 +114,12 @@ global.APIKeys = { // APIKey Here
 // Kata APIKEY itu isi dengan apikey lu sendiri, dengan beli ke website itu
 
 /*============== WATERMARK ==============*/
-global.wm = '                「 𝐏𝐄𝐍𝐓𝐀𝐆𝐑𝐀𝐌 」' //Main Watermark
-global.wm2 = '𝐏𝐄𝐍𝐓𝐀𝐆𝐑𝐀𝐌'
-global.wm3 = '⛧𝐏𝐄𝐍𝐓𝐀𝐆𝐑𝐀𝐌'
+global.wm = '                「 CHONIX 」' //Main Watermark
+global.wm2 = '𝖈𝖍𝖔𝖓𝖎𝖝'
+global.wm3 = '𝙑𝙖𝙢𝙨𝙚𝙨𝙊𝙛𝙛𝙞𝙘𝙞𝙖𝙡'
 global.botdate = `⫹⫺ 𝗗𝗮𝘁𝗲: ${week} ${date}`
 global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
-global.titlebot = '⛧┊ PENTAGRAM ʙᴏᴛ'
+global.titlebot = '⛧┊ CHONIX ʙᴏᴛ'
 global.author = global.wm
 
 
@@ -173,7 +173,7 @@ global.hsquere = ['⛶','❏','⫹⫺']
 
 /*============== STICKER WM ==============*/
 global.stickpack = '_'
-global.stickauth = `𝐏𝐄𝐍𝐓𝐀𝐆𝐑𝐀𝐌`
+global.stickauth = `𝙑𝙖𝙢𝙨𝙚𝙨𝙊𝙛𝙛𝙞𝙘𝙞𝙖𝙡`
 
 global.multiplier = 38 // The higher, The harder levelup
 

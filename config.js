@@ -172,8 +172,8 @@ global.htjava = '𔔮'   //hiasan Doang :v
 global.hsquere = ['⛶','❏','⫹⫺']
 
 /*============== STICKER WM ==============*/
-global.stickpack = '_'
-global.stickauth = `𝙑𝙖𝙢𝙨𝙚𝙨𝙊𝙛𝙛𝙞𝙘𝙞𝙖𝙡`
+global.stickpack = 'Chonix BOT'
+global.stickauth = `VamsesOfficial`
 
 global.multiplier = 38 // The higher, The harder levelup
 

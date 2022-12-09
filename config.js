@@ -44,7 +44,7 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 /*============== SOCIAL ==============*/
 
 // Wajib diisi ya kak!, kalo ga punya biarin aja, biar ada creditsnya :v
-global.sig = 'https://www.instagram.com/ketutagus404'
+global.sig = 'https://www.instagram.com/ketutaguss_'
 global.sgh = 'https://github.com/VamsesOfficial'
 global.sgc = 'https://chat.whatsapp.com/BCwzxnLQZl6FwyXumQ1wVe'
 global.sdc = " "
@@ -52,8 +52,8 @@ global.snh = '-'
 
 /*============== PAYMENT ==============*/
 global.pdana = '085738639969'
-global.povo = '_'
-global.pgopay = '_'
+global.povo = '085738639969'
+global.pgopay = '085738639969'
 global.ppulsa = '085738639969'
 global.ppulsa2 = '-'
 global.psaweria = '_'
